@@ -84,12 +84,13 @@ img{
 
 .title{
 	margin-top: auto;
-	margin-left: 50px;
+	margin-left: 20px;
 	font-size: 1.5em;
 }
 
 .source{
-	margin-left: 60px;
+	margin-left: 30px;
+	margin-right: 20px;
 	color: #949399;
 	text-decoration: none;
 	font-size: 1.25em;
