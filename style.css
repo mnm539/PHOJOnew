@@ -85,16 +85,22 @@ img{
 .title{
 	margin-top: auto;
 	margin-left: 50px;
+	font-size: 1.5em;
 }
 
 .source{
 	margin-left: 60px;
 	color: #949399;
 	text-decoration: none;
+	font-size: 1.25em;
 }
 
 #column{
 	column-count: 3;
 	column-gap: 75px;
 	margin-top: 50px;
+}
+
+p{
+	font-family: 'Muli', Helvetica, sans-serif;
 }
