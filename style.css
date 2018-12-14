@@ -81,3 +81,20 @@ img{
 	width: 100%
 	height: auto;
 }
+
+.title{
+	margin-top: auto;
+	margin-left: 50px;
+}
+
+.source{
+	margin-left: 60px;
+	color: #949399;
+	text-decoration: none;
+}
+
+#column{
+	column-count: 3;
+	column-gap: 75px;
+	margin-top: 50px;
+}
